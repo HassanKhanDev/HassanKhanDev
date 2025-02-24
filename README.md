@@ -6,7 +6,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/5bVVBlP.png" alt="Profile Banner">
+  <img src="https://i.imgur.com/5bVVBlP.png](https://pin.it/2nWJlUqkV" alt="Profile Banner">
 </p>
 
 <!-- About Me -->
