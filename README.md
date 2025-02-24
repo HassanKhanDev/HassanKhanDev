@@ -6,7 +6,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-github/your-github/main/assets/banner.png" alt="Profile Banner">
+  <img src="https://i.imgur.com/5bVVBlP.png" alt="Profile Banner">
 </p>
 
 <!-- About Me -->
@@ -29,19 +29,61 @@ Let's connect and build something amazing together! 🚀
 <!-- Skill Level with Sliders -->
 ## 📊 My Skill Levels  
 
-```html
-<div align="center">
+<p align="center">
+  <img src="https://progress-bar.dev/90/?title=React.js&color=61DBFB">
+  <img src="https://progress-bar.dev/90/?title=Node.js&color=3C873A">
+  <img src="https://progress-bar.dev/90/?title=MongoDB&color=47A248">
+  <img src="https://progress-bar.dev/95/?title=Python&color=FFD43B">
+  <img src="https://progress-bar.dev/75/?title=C++&color=00599C">
+  <img src="https://progress-bar.dev/100/?title=HTML&color=E34F26">
+  <img src="https://progress-bar.dev/100/?title=CSS&color=1572B6">
+  <img src="https://progress-bar.dev/100/?title=JavaScript&color=F7DF1E">
+  <img src="https://progress-bar.dev/100/?title=PHP&color=777BB4">
+  <img src="https://progress-bar.dev/100/?title=Laravel&color=FF2D20">
+  <img src="https://progress-bar.dev/100/?title=SQL&color=4479A1">
+</p>
 
-🟩 React.js 90%  
-🟩 Node.js 90%  
-🟩 MongoDB 90%  
-🟩 Python 95%  
-🟩 C++ 75%  
-🟩 HTML 100%  
-🟩 CSS 100%  
-🟩 JavaScript 100%  
-🟩 PHP 100%  
-🟩 Laravel 100%  
-🟩 SQL 100%  
+---
 
-</div>
+<!-- GitHub Stats -->
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github&theme=tokyonight" alt="GitHub Contribution Summary">
+</p>
+
+---
+
+<!-- Contact Section -->
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://github.com/your-github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+<!-- Fun GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+</p>
+
+---
+
+*✨ Thanks for visiting my profile! Let's collaborate and create something awesome. 🚀*
