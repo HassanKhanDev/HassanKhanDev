@@ -26,39 +26,17 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 GitHub Achievements
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Repositories-150%2B-blue?style=for-the-badge&logo=github" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Commits-50K%2B-green?style=for-the-badge&logo=git" alt="Commits" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-5K%2B-orange?style=for-the-badge&logo=github" alt="Pull Requests" />
+  <img src="https://img.shields.io/badge/Issues%20Resolved-10K%2B-red?style=for-the-badge&logo=bugatti" alt="Issues Resolved" />
+  <img src="https://img.shields.io/badge/Stars-100K%2B-yellow?style=for-the-badge&logo=star" alt="Stars" />
+  <img src="https://img.shields.io/badge/Forks-25K%2B-purple?style=for-the-badge&logo=repo-forked" alt="Forks" />
 </p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <!-- GitHub Metrics -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github&theme=tokyonight" alt="GitHub Contribution Summary">
-</p>
-
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies">
-</p>
-
----
 
 ⭐️ From [Hassan Khan](https://github.com/your-github)
 
