@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&theme=tokyonight&layout=compact&hide_border=true&langs_count=10&hide_title=false&custom_title=Most%20Used%20Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&theme=tokyonight&layout=compact&hide_border=true&langs_count=4&hide_title=false&custom_title=Most%20Used%20Languages&include_titles=true&langs=javascript,typescript,python,mongodb" />
 </p>
 
 <p align="center">
@@ -46,6 +46,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=tokyonight&no-frame=true&margin-w=15&rank=SECRET,SSS,SS,S" />
 </p>
+
 
 ## 🚀 GitHub Achievements
 
