@@ -47,6 +47,31 @@
   <img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=tokyonight&no-frame=true&margin-w=15&rank=SECRET,SSS,SS,S" />
 </p>
 
+## 📊 Most Used Technologies  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+## 📊 My Skill Levels  
+
+```html
+<div align="center">
+  🟩 React.js 95%  
+  🟩 Node.js 90%  
+  🟩 Python 85%  
+  🟩 MongoDB 80%
+ 🟩 HTML CSS JAVASCRIPT 80%
+ 🟩  C++ 70%  
+</div>
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&custom_title=Top%20Languages&card_width=400" />
+</p>
+
 
 ## 🚀 GitHub Achievements
 
