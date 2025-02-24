@@ -26,18 +26,36 @@
 
 ---
 
-### **📊 GitHub Stats**  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&theme=tokyonight&layout=compact" alt="Top Languages" />
+  <!-- GitHub Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <!-- GitHub Metrics -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github&theme=tokyonight" alt="GitHub Contribution Summary">
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </p>
 
 ---
