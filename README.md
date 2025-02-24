@@ -1,6 +1,6 @@
 <!-- Centered Title with GIF -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://i.pinimg.com/736x/bd/da/fc/bddafc029d86df72bef91bba70973c71.jpg" width="35">
   Hassan Khan  
 </h1>
 
