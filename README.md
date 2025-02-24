@@ -4,11 +4,7 @@
 - 🔭 I’m currently working as a **Software Engineer**  
 - 🌱 I’m currently learning **Advanced Backend & Cloud Technologies**  
 - 💬 Ask me anything about **MERN, Python, C++**  
-- 📫 How to reach me: **your.email@example.com**  
-- 😄 My website: **[your-website.com](https://your-website.com)**  
-- ⚡ Fun fact: **I love solving coding challenges!**  
-
----
+- 📫 How to reach me: **hassankhannawab0@gmail.com**
 
 ### **📱 Connect with Me:**  
 <div id="badges">
@@ -18,7 +14,7 @@
   <a href="https://www.linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="hassankhannawab0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
