@@ -57,15 +57,17 @@
 </p>
 ## 📊 My Skill Levels  
 
-```html
-<div align="center">
-  🟩 React.js 95%  
-  🟩 Node.js 90%  
-  🟩 Python 85%  
-  🟩 MongoDB 80%
- 🟩 HTML CSS JAVASCRIPT 80%
- 🟩  C++ 70%  
-</div>
+| Skill       | Proficiency |
+|-------------|------------|
+| **React.js**  | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜  (90%) |
+| **Node.js**   | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  (80%) |
+| **Python**    | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜  (90%) |
+| **MongoDB**   | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  (80%) |
+| **HTML & CSS**| 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩  (100%) |
+| **JavaScript**| 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩  (100%) |
+| **PHP & Laravel** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩  (100%) |
+| **SQL**       | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩  (100%) |
+
 
 ---
 <p align="center">
