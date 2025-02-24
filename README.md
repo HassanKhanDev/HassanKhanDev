@@ -28,33 +28,23 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <!-- Fake GitHub Stats -->
-  <img src="https://img.shields.io/badge/Public%20Repositories-0-red?style=for-the-badge&logo=github" alt="Repositories: 0" />
-  <img src="https://img.shields.io/badge/Commits-0%2FYear-red?style=for-the-badge&logo=git" alt="Commits: 0" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-0%2FYear-red?style=for-the-badge&logo=github" alt="Pull Requests: 0" />
-  <img src="https://img.shields.io/badge/Issues%20Resolved-0-red?style=for-the-badge&logo=bugatti" alt="Issues Resolved: 0" />
-  <img src="https://img.shields.io/badge/Stars-0-yellow?style=for-the-badge&logo=star" alt="Stars: 0" />
-  <img src="https://img.shields.io/badge/Forks-0-purple?style=for-the-badge&logo=repo-forked" alt="Forks: 0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=Epic%20Coder&line_height=30&hide=contribs" />
 </p>
 
 <p align="center">
-  <!-- Fake GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true&stroke=DD2727&fire=000000&currStreakNum=000000&currStreakLabel=DD2727&sideNums=000000&sideLabels=DD2727" alt="GitHub Streak (0 Days)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true&stroke=29FF00&fire=FF0000&currStreakNum=FFCC00&currStreakLabel=FFFFFF&sideNums=FF6600&sideLabels=00FF00" />
 </p>
 
 <p align="center">
-  <!-- Fake GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&theme=tokyonight&layout=compact&hide_border=true&langs_count=1&hide=all" alt="Top Languages (None)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&theme=tokyonight&layout=compact&hide_border=true&langs_count=10&hide_title=false&custom_title=Most%20Used%20Languages" />
 </p>
 
 <p align="center">
-  <!-- Fake GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=tokyonight&hide_border=true&color=red&area_color=red&point=red&hide_title=true" alt="GitHub Activity (Empty)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=tokyonight&hide_border=true&color=00FF00&area_color=FF0000&point=FFCC00&hide_title=false" />
 </p>
 
 <p align="center">
-  <!-- Fake GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=tokyonight&no-frame=true&margin-w=15&column=-1&title=No%20Achievements" alt="GitHub Trophies (None)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=tokyonight&no-frame=true&margin-w=15&rank=SECRET,SSS,SS,S" />
 </p>
 
 ## 🚀 GitHub Achievements
