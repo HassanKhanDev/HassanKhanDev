@@ -1,5 +1,5 @@
 <!-- Centered Title with GIF -->
-<h1 align="center">Hi 👋, I'm Hassan Khan</h1>
+<h1 align="center">Hi , I'm Hassan Khan</h1>
 
 - 🔭 I’m currently working as a **Software Engineer**  
 - 🌱 I’m currently learning **Advanced Backend & Cloud Technologies**  
