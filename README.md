@@ -11,7 +11,7 @@
   <a href="https://github.com/your-github">
     <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="www.linkedin.com/in/hassan-khan-482678269">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="hassankhannawab0@gmail.com">
