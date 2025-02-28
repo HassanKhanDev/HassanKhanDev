@@ -1,4 +1,4 @@
-<!-- Centered Title with GIF -->
+h<!-- Centered Title with GIF -->
 <h1 align="center">Hi , I'm Hassan Khan</h1>
 
 - 🔭 I’m currently working as a **Software Engineer**  
@@ -11,7 +11,7 @@
   <a href="https://github.com/your-github">
     <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="www.linkedin.com/in/hassan-khan-482678269">
+  <a href="https://linkedin.com/in/hassan-khan-482678269">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="hassankhannawab0@gmail.com">
