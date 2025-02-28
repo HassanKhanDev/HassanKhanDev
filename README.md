@@ -1,4 +1,4 @@
-h<!-- Centered Title with GIF -->
+<!-- Centered Title with GIF -->
 <h1 align="center">Hi , I'm Hassan Khan</h1>
 
 - 🔭 I’m currently working as a **Software Engineer**  
