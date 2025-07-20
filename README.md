@@ -1,91 +1,142 @@
-<!-- Centered Title with GIF -->
-<h1 align="center">Hi , I'm Hassan Khan</h1>
+# HireSync - AI-Powered HRMS SaaS Platform
 
-- 🔭 I’m currently working as a **Software Engineer**  
-- 🌱 I’m currently learning **Advanced Backend & Cloud Technologies**  
-- 💬 Ask me anything about **MERN, Python, C++**  
-- 📫 How to reach me: **hassankhannawab0@gmail.com**
+⚙️ **Technology Stack:** MERN Stack · OpenAI · Tailwind CSS · Cloudinary · Stripe · MongoDB Atlas · Nodemailer · JWT · Recharts
 
-### **📱 Connect with Me:**  
-<div id="badges">
-  <a href="https://github.com/your-github">
-    <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/hassan-khan-482678269">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="hassankhannawab0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
+🎯 **Purpose:** To unify and automate every aspect of HR management in one intelligent, scalable, enterprise-ready SaaS platform
 
----
+## 🌟 Features
 
-### **🛠️ Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,cpp,html,css,js,php,laravel,mysql,git,github,vscode&perline=6)](https://skillicons.dev)
+### 🧑‍💼 Employee Lifecycle Management
+- Complete onboarding wizard with document uploads
+- Auto-generated contracts and e-signature workflow
+- Structured exit process with NOC and final settlement
 
----
-## 📊 GitHub Stats  
+### 🔐 Admin-Controlled Access System
+- Centralized user account creation by admins
+- Secure credential distribution via email
+- Role-based dashboard redirection
+- Enforced password change on first login
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=Epic%20Coder&line_height=30&hide=contribs" />
-</p>
+### 🕓 Advanced Attendance System
+- Biometric mock and QR code check-in/out
+- Real-time status tracking with late detection
+- Calendar view with visual attendance markers
+- Automated timesheet generation
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true&stroke=29FF00&fire=FF0000&currStreakNum=FFCC00&currStreakLabel=FFFFFF&sideNums=FF6600&sideLabels=00FF00" />
-</p>
+### 💰 Intelligent Payroll Engine
+- Dynamic salary structures per employee
+- Automated calculations for taxes, deductions, bonuses
+- PDF payslip generation
+- Stripe integration for secure payouts
+- Comprehensive payroll analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&theme=tokyonight&layout=compact&hide_border=true&langs_count=4&hide_title=false&custom_title=Most%20Used%20Languages&include_titles=true&langs=javascript,typescript,python,mongodb" />
-</p>
+### 🗓️ Smart Leave Management
+- Multiple leave types with approval workflows
+- Multi-level approval system
+- Leave balance tracking with yearly rollover
+- AI-powered pattern detection
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=tokyonight&hide_border=true&color=00FF00&area_color=FF0000&point=FFCC00&hide_title=false" />
-</p>
+### 🧠 AI-Powered Recruitment
+- Resume parsing with OpenAI integration
+- Smart candidate ranking and matching
+- Automated interview question generation
+- Kanban-style recruitment pipeline
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=tokyonight&no-frame=true&margin-w=15&rank=SECRET,SSS,SS,S" />
-</p>
+### 📈 Performance Management
+- Goal setting and progress tracking
+- 360-degree feedback system
+- AI-generated performance summaries
+- Attrition risk prediction
 
-## 📊 Most Used Technologies  
+### 📄 AI Document Generation
+- Automated letter generation (offers, warnings, promotions)
+- Smart templates with employee data integration
+- Instant PDF export and email delivery
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
- 📊 My Skills Level ...
+### 📊 Role-Based Dashboards
+- **Admin:** Complete system overview and analytics
+- **HR Manager:** Onboarding, payroll, and performance management
+- **Recruiter:** Job posting and candidate management
+- **Employee:** Personal dashboard with self-service features
 
-| Skill       | Proficiency |
-|-------------|------------|
-| **React.js**  | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜  (90%) |
-| **Node.js**   | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  (80%) |
-| **Python**    | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜  (90%) |
-| **MongoDB**   | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  (80%) |
-| **HTML & CSS**| 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩  (100%) |
-| **JavaScript**| 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩  (100%) |
-| **PHP & Laravel** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩  (100%) |
-| **SQL**       | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩  (100%) |
+## 🚀 Getting Started
 
+### Prerequisites
+- Node.js (v18 or higher)
+- MongoDB Atlas account
+- OpenAI API key
+- Stripe account (for payments)
+- Cloudinary account (for file storage)
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&custom_title=Top%20Languages&card_width=400" />
-</p>
+### Installation
 
+1. **Clone the repository**
+```bash
+git clone <repository-url>
+cd hiresync
+```
 
-## 🚀 GitHub Achievements
+2. **Install backend dependencies**
+```bash
+cd backend
+npm install
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Repositories-150%2B-blue?style=for-the-badge&logo=github" alt="Repositories" />
-  <img src="https://img.shields.io/badge/Commits-50K%2B-green?style=for-the-badge&logo=git" alt="Commits" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-5K%2B-orange?style=for-the-badge&logo=github" alt="Pull Requests" />
-  <img src="https://img.shields.io/badge/Issues%20Resolved-10K%2B-red?style=for-the-badge&logo=bugatti" alt="Issues Resolved" />
-  <img src="https://img.shields.io/badge/Stars-100K%2B-yellow?style=for-the-badge&logo=star" alt="Stars" />
-  <img src="https://img.shields.io/badge/Forks-25K%2B-purple?style=for-the-badge&logo=repo-forked" alt="Forks" />
-</p>
+3. **Install frontend dependencies**
+```bash
+cd ../frontend
+npm install
+```
 
+4. **Set up environment variables**
+Create `.env` files in both backend and frontend directories with required variables.
 
-⭐️ From [Hassan Khan](https://github.com/your-github)
+5. **Start the application**
+```bash
+# Start backend (from backend directory)
+npm run dev
+
+# Start frontend (from frontend directory)
+npm start
+```
+
+## 🎨 UI/UX Features
+- Fully responsive design for all devices
+- Dark/Light mode toggle
+- Modern Tailwind CSS + DaisyUI components
+- Interactive charts with Recharts
+- Toast notifications and modals
+
+## 🛡️ Security Features
+- JWT-based authentication
+- Bcrypt password hashing
+- Role-based access control
+- Data encryption at rest
+- Secure API endpoints
+
+## 📱 Mobile Responsiveness
+- Touch-friendly attendance check-in
+- Optimized mobile dashboards
+- Responsive charts and tables
+- Mobile-first design approach
+
+## 🤖 AI Integration
+- OpenAI GPT-4 for document generation
+- Resume parsing and analysis
+- Sentiment analysis for feedback
+- Predictive analytics for HR insights
+
+## 📧 Communication Features
+- Automated email notifications
+- Company announcements
+- Birthday and reminder alerts
+- Optional Slack/Teams integration
+
+## 🔧 Admin Features
+- User account management
+- System configuration
+- Data export capabilities
+- Audit logs and monitoring
+
+Built with ❤️ for modern HR management
 
